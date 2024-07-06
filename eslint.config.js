@@ -52,6 +52,9 @@ export default [
       'import/no-named-as-default-member': 'off',
       'no-console': 'off',
       'import/no-extraneous-dependencies': 'off',
+      'import/no-mutable-exports': 'off',
+      'import/no-amd': 'off',
+      'import/newline-after-import': 'off',
     },
   },
 ];
