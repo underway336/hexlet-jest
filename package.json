@@ -1,7 +1,7 @@
 {
-  "name": "@hexlet/nodejs-package",
-  "version": "0.0.3",
-  "description": "Node.js boilerplate package",
+  "name": "@hexlet-jest",
+  "version": "0.0.0",
+  "description": "tests on jest",
   "bin": {
     "nodejs-package": "bin/nodejs-package.js"
   },
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hexlet-boilerplates/nodejs-package.git"
+    "url": "git+https://github.com/underway336/hexlet-jest.git"
   },
-  "author": "Kirill Mokevnin",
+  "author": "A.S.",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/hexlet-boilerplates/nodejs-package/issues"
+    "url": "https://github.com/underway336/hexlet-jest.git/issues"
   },
   "type": "module",
-  "homepage": "https://github.com/hexlet-boilerplates/nodejs-package#readme",
+  "homepage": "https://github.com/underway336/hexlet-jest.git#readme",
   "dependencies": {
     "debug": "^4.3.4",
     "lodash": "^4.17.21"
